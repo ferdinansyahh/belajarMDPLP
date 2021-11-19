@@ -2,3 +2,5 @@ Mobil
 -Avanza
 -Jazz
 -Jeep
+-Ayla
+-Truck
